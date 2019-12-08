@@ -1,0 +1,10 @@
+$ python3 interpol.py 
+========  INTERPOL INTERPRETER STARTED   ========
+
+Enter INTERPOL file (.ipol): test02.ipol
+
+================ INTERPOL OUTPUT ================
+
+----------------  OUTPUT START  ---------------->
+Invalid character at line number [ 2 ]
+ ----> DSTR stringmo WITH "
